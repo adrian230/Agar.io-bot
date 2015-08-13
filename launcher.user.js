@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name        AposLauncher
-// @namespace   AposLauncher
+// @name      
+// @namespace   
 // @include     http://agar.io/*
 // @version     3.067
 // @grant       none
-// @author      http://www.twitch.tv/apostolique
+// @author     
 // ==/UserScript==
 
 var aposLauncherVersion = 3.067;
@@ -1305,7 +1305,7 @@ console.log("Running Bot Launcher!");
                 dArc = [],
                 dText = [],
                 lines = [],
-                names = ["NotReallyABot"],
+                names = ["Feed Me Please"],
                 originalName = names[Math.floor(Math.random() * names.length)],
                 sessionScore = 0,
                 serverIP = "",
